@@ -1,0 +1,12 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server -p 8000 app -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
